@@ -1,2 +1,2 @@
-MISTRAL_API_KEY = "4IAXHXA2B2P6ZbCks2FY1vUVloSNXQ1a"
-NEWS_API_KEY = "a979b0eb3e5545a6abde28581616c45d"
+MISTRAL_API_KEY = "your_mistral_api_key_here"
+NEWS_API_KEY = "your_news_api_key_here"
